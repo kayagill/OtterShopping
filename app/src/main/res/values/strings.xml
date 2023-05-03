@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OtterShopping</string>
+    <string name="login_button">Login</string>
+    <string name="create_account">Create Account</string>
+</resources>
